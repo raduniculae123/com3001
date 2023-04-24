@@ -96,3 +96,5 @@ ax = plt.axes(projection='3d')
 ax.plot3D(X_RK2[0,:], X_RK2[1,:], X_RK2[2,:], 'red')
 
 
+
+# %%
